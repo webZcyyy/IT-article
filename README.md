@@ -15,3 +15,4 @@
 * 13.polymer 中文网：https://polymer-zh.cn/
 * 14.浅析前端工程化：http://www.cnblogs.com/ihardcoder/p/5378290.html
 * 15.eslint规范：https://github.com/airbnb/javascript
+* 16.AngularJs 内置过滤器：https://www.cnblogs.com/zhujierong/p/6136716.html
