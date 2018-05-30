@@ -18,3 +18,4 @@
 * 16.AngularJs 内置过滤器：https://www.cnblogs.com/zhujierong/p/6136716.html
 * 17.vue打包：https://segmentfault.com/a/1190000012249873
 * 18.vue打包后对代码的思索：https://segmentfault.com/a/1190000012249890
+* 19. Maven整体认识——详细介绍：https://segmentfault.com/a/1190000015077021?utm_source=channel-hottest
